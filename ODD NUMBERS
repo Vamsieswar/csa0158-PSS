@@ -1,9 +1,0 @@
-#include<stdio.h>
-int main()
-{
-printf("Odd number b/w 21 and 50 is given below\n");
- for(int i=21;i<=50;i=i+2)
- {
- 	printf("%d ",i);
- }
-}
